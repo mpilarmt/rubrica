@@ -1,6 +1,6 @@
-# Sistema de Corrección de Tareas
+# Sistema de Correcció de Tasques
 
-Aplicació PHP per generar informes d'avaluació en pdf
+Aplicació PHP per generar informes d'avaluació de tasca en pdf
 
 ## Requisits
 - Apache
@@ -13,7 +13,7 @@ Aplicació PHP per generar informes d'avaluació en pdf
 
 1. Clona el repositori:
 
-git clone https://el-teu-repositori.git
+git clone https://
 cd nom-del-projecte
 
 2. Instal·la les dependències
