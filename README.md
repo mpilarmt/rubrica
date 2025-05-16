@@ -9,7 +9,7 @@ Aplicació PHP per generar informes d'avaluació en pdf
 - Extensió - Es requereix l'extensió mbstring de PHP per a la gestió de caràcters UTF-8
 
 
-## Instalación
+## Instal·lació
 
 1. Clona el repositori:
 
