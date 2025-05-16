@@ -11,9 +11,9 @@ Aplicació PHP per generar informes d'avaluació de tasca en pdf
 
 ## Instal·lació
 
-1. Clona el repositori:
+1. Clona el repositori a la carpeta /var/www/html del teu servidor apache:
 
-git clone https://
+git clone  https://github.com/mpilarmt/rubrica.git
 cd nom-del-projecte
 
 2. Instal·la les dependències
