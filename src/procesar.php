@@ -246,7 +246,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         $pdf = $validator->generarPDF($dades);
 
-        $nom_arxiu = 'informe_node_' . netejarNomArxiu($_POST['nom']) . '.pdf';
+        $nom_arxiu = 'informe_' . netejarNomArxiu($_POST['nom']) . '.pdf';
         $pdf->Output('D', $nom_arxiu);
     } catch (Exception $e) {
         http_response_code(500);
