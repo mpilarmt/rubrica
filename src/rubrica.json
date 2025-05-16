@@ -1,0 +1,202 @@
+{ "modul": "M7 Backend",
+  "curs": "Curs 2024-2025",
+  "uf": "UF 4",
+  "tasca": "Projecte Node.js",
+  "grup": "2n DAW",
+  "seccions": [
+  {
+    "id": "video",
+    "titol": "Vídeo",
+    "puntuacio_maxima": 1,
+    "items": [
+      {
+        "id": "explicacio",
+        "text": "Explicació clara del codi i funcionalitats",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "demostracio",
+        "text": "Demostració del funcionament",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "qualitat",
+        "text": "Qualitat adequada d'àudio i vídeo",
+        "puntuacio": 0.2
+      }
+    ]
+  },
+  {
+    "id": "qualitat_codi",
+    "titol": "Qualitat del Codi",
+    "puntuacio_maxima": 2,
+    "items": [
+      {
+        "id": "comentaris_basics",
+        "text": "Comentaris bàsics de funcionalitat",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "comentaris_complexos",
+        "text": "Documentació de parts complexes",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "estructura",
+        "text": "Estructura i organització del codi",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "bones_practiques",
+        "text": "Seguiment de bones pràctiques",
+        "puntuacio": 0.5
+      }
+    ]
+  },
+  {
+    "id": "config_inicial_servidor",
+    "titol": "Configuració Inicial i Servidor",
+    "puntuacio_maxima": 1,
+    "items": [
+      {
+        "id": "init_projecte",
+        "text": "Correcta inicialització del projecte Node.js",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "dependencies",
+        "text": "Instal·lació correcta de les dependències necessàries",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "config_express",
+        "text": "Configuració bàsica del servidor Express",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "middleware_basic",
+        "text": "Implementació de middleware bàsic",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "gestio_errors",
+        "text": "Gestió d'errors i excepcions",
+        "puntuacio": 0.2
+      }
+    ]
+  },
+  {
+    "id": "rutes",
+    "titol": "Definició de Rutes",
+    "puntuacio_maxima": 1,
+    "items": [
+      {
+        "id": "estructura_rutes",
+        "text": "Estructura i organització de les rutes",
+        "puntuacio": 0.3
+      },
+      {
+        "id": "parametres_rutes",
+        "text": "Correcta gestió de paràmetres en les rutes",
+        "puntuacio": 0.3
+      },
+      {
+        "id": "metodes_http",
+        "text": "Ús adequat dels mètodes HTTP",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "middleware_rutes",
+        "text": "Implementació de middleware específic per rutes",
+        "puntuacio": 0.2
+      }
+    ]
+  },
+  {
+    "id": "model",
+    "titol": "Model de Dades",
+    "puntuacio_maxima": 1,
+    "items": [
+      {
+        "id": "definicio_esquema",
+        "text": "Definició correcta de l'esquema del model",
+        "puntuacio": 0.3
+      },
+      {
+        "id": "validacions",
+        "text": "Implementació de validacions en el model",
+        "puntuacio": 0.3
+      },
+      {
+        "id": "relacions",
+        "text": "Definició de relacions entre models (si aplica)",
+        "puntuacio": 0.2
+      },
+      {
+        "id": "metodes_model",
+        "text": "Implementació de mètodes estàtics o d'instància",
+        "puntuacio": 0.2
+      }
+    ]
+  },
+  {
+    "id": "controlador",
+    "titol": "Controlador",
+    "puntuacio_maxima": 2,
+    "items": [
+      {
+        "id": "crear",
+        "text": "Implementació correcta de la funció de crear",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "llegir",
+        "text": "Implementació correcta de la funció de llegir",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "actualitzar",
+        "text": "Implementació correcta de la funció d'actualitzar",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "eliminar",
+        "text": "Implementació correcta de la funció d'eliminar",
+        "puntuacio": 0.4
+      },
+      {
+        "id": "gestio_errors_controlador",
+        "text": "Gestió adequada d'errors en el controlador",
+        "puntuacio": 0.4
+      }
+    ]
+  },
+  {
+    "id": "funcionalitats_extra",
+    "titol": "Funcionalitats Adicionals",
+    "puntuacio_maxima": 2,
+    "items": [
+      {
+        "id": "gestio_arxius",
+        "text": "Gestió correcta de pujada d'arxius",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "validacio_arxius",
+        "text": "Validació d'arxius i gestió d'errors",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "cors",
+        "text": "Configuració correcta de CORS",
+        "puntuacio": 0.5
+      },
+      {
+        "id": "seguretat",
+        "text": "Implementació de mesures de seguretat bàsiques",
+        "puntuacio": 0.5
+      }
+    ]
+  }
+]
+}
